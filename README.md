@@ -2,15 +2,14 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<p align="left">SobreSobre<br>💼 Desenvolvedor Back-end | Entusiasta em Segurança Cibernética<br><br>🔧 Linguagens de Programação: Java<br><br>🔧 Frameworks e Ferramentas:<br><br>Spring Boot<br>JPA / Hibernate<br>Spring Data JPA<br>Spring Data MongoDB<br>JDBC<br>JavaFX<br>MySQL<br>MongoDB<br><br>👨‍🎓 Certificações:<br><br>Cybersecurity Awareness - CAPC<br>Fortinet Certified Associate in Cybersecurity<br>Fortinet Certified Fundamentals in Cybersecurity<br>Boas Práticas de Cibersegurança (Cybersecurity Awareness)<br><br>👨‍🎓 Cursos: <br><br>Redes de Computadores, Engenharia e Usabilidade - Estacio<br>Cybersecurity - FIAP<br>Cybersecurity Essentials - Cisco Networking Academy<br>Ethical Hacker - Cisco<br>Kali Linux - e-Security<br><br>🌐 Sobre Mim:<br>Sou um desenvolvedor back-end apaixonado por tecnologia e segurança cibernética. Com 25 anos, possuo um sólido conhecimento nas linguagens de programação Java, HTML, CSS e python, e estou sempre em busca de aprimorar minhas habilidades e conhecimentos. Minhas certificações em segurança cibernética demonstram meu compromisso em manter ambientes seguros e protegidos contra ameaças digitais.<br><br>📚 Formação e Experiência:<br>Atualmente, estou no terceiro semestre da faculdade, onde venho aprofundando meus conhecimentos em desenvolvimento de software e segurança cibernética. Estou sempre em busca de novos desafios e oportunidades para aplicar minhas habilidades em projetos inovadores.<br><br>📩 Contato:<br>Conecte-se comigo para discutirmos oportunidades, projetos e colaborações na área de desenvolvimento back-end e segurança cibernética.</p>
+<p align="left">💼 Desenvolvedor Back-end | Entusiasta em Segurança Cibernética<br><br>🔧 Linguagens de Programação: Java<br><br>🔧 Frameworks e Ferramentas:<br><br>Spring Boot<br>JPA / Hibernate<br>Spring Data JPA<br>Spring Data MongoDB<br>JDBC<br>JavaFX<br>MySQL<br>MongoDB<br><br>👨‍🎓 Certificações:<br><br>Cybersecurity Awareness - CAPC<br>Fortinet Certified Associate in Cybersecurity<br>Fortinet Certified Fundamentals in Cybersecurity<br>Boas Práticas de Cibersegurança (Cybersecurity Awareness)<br><br>👨‍🎓 Cursos: <br><br>Redes de Computadores, Engenharia e Usabilidade - Estacio<br>Cybersecurity - FIAP<br>Cybersecurity Essentials - Cisco Networking Academy<br>Ethical Hacker - Cisco<br>Kali Linux - e-Security<br><br>🌐 Sobre Mim:<br>Sou um desenvolvedor back-end apaixonado por tecnologia e segurança cibernética. Com 25 anos, possuo um sólido conhecimento nas linguagens de programação Java, HTML, CSS e python, e estou sempre em busca de aprimorar minhas habilidades e conhecimentos. Minhas certificações em segurança cibernética demonstram meu compromisso em manter ambientes seguros e protegidos contra ameaças digitais.<br><br>📚 Formação e Experiência:<br>Atualmente, estou no terceiro semestre da faculdade, onde venho aprofundando meus conhecimentos em desenvolvimento de software e segurança cibernética. Estou sempre em busca de novos desafios e oportunidades para aplicar minhas habilidades em projetos inovadores.<br><br>📩 Contato:<br>Conecte-se comigo para discutirmos oportunidades, projetos e colaborações na área de desenvolvimento back-end e segurança cibernética.</p>
 
 ###
 
