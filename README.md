@@ -41,6 +41,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/th3ev3/th3ev3/output/snake.svg" alt="Snake animation" />
 
 ###
